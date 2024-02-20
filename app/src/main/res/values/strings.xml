@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_tree_content_description">Tap the lemon tree to select a lemon</string>
+    <string name="lemon_content_description">Keep tapping the lemon to squeeze it</string>
+    <string name="glassOfLemonade_content_description">Keep tapping the lemon to squeeze it</string>
+    <string name="empty_glass">Tap the empty glass to start again</string>
+    //NameCard
+    <string name="title">Arif Rofikul Huda</string>
+    <string name="description_title">Android Developer</string>
+    <string name="phone">087850213863</string>
+    <string name="mail">arifrofikulhuda@gmail.com</string>
+    <string name="link">www.rofideveloperandro.com</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
